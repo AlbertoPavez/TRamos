@@ -9,14 +9,61 @@ header{
     justify-content: space-evenly;
     height: 500px;
 }
-.Q1
-.Q2
-.Q3
-.Q4{
-  
-
+.Q1flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
 }
-
+.Q1-2013
+{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: lightgray;
+}
+.Q1-2014{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: lightgray;
+}
+.Q1-2015{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: lightgray;
+}
+.Q1-2016{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: lightgray;
+}
+.Q1-2017{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: lightgray;
+}
+.Q1-2018{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: lightgray;
+}
+.Q1-2019{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: lightgray;
+}
+.Q1-2020{
+    margin: 10px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    background-color: lightgray;
+}
 .footerflex{
     display: flex;
     flex-direction: column;
