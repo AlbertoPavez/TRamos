@@ -134,8 +134,50 @@ header{
     height: 100px;
     background-color: lightsteelblue;
     align-items: center;
-
 }
+
+.mallaflex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 3px solid red;
+    margin: 4%;
+}
+.año-uno{
+    border: 2px solid black;
+    height: 500px;
+    width: 130px;
+    margin-bottom: 2%;
+}
+.año-dos{
+    border: 2px solid black;
+    height: 500px;
+    width: 130px;
+    margin-bottom: 2%;
+}
+.año-tres{
+    border: 2px solid black;
+    height: 500px;
+    width: 130px;
+    margin-bottom: 2%;
+}
+.año-cuatro{
+    border: 2px solid black;
+    height: 500px;
+    width: 130px;
+    margin-bottom: 2%;
+}
+.año-cinco{
+    border: 2px solid black;
+    height: 500px;
+    width: 130px;
+    margin-bottom: 2%;;
+}
+
+
+
+
 footer{
     margin: 0%;
 }
