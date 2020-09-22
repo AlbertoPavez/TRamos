@@ -1,4 +1,26 @@
+header{
+    height: 10px;
+}
 .flexbox{
     display: flex;
     flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 500px;
+}
+.Q1
+.Q2
+.Q3
+.Q4{
+  
+
+}
+
+.footerflex{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    height: 100px;
 }
