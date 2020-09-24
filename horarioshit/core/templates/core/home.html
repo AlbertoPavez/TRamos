@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form action="/data/">
+        {% for ramos in ramo %}
+        <input type="checkbox" id="mate1" name="año1" value="mate1"> 
+        <label for="mate1">{{ramos.nombre}}</label>
+        {% endfor %}
+      <a href="shit/">siguiente</a>
+
+    </form>
+
+</body>
+</html>
